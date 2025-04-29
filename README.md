@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshot.png" width="400" alt="Calculator Screenshot" />
+  <img src="https://github.com/Ajayyadav0001/BasicCalculator/blob/main/Screenshot%202025-04-30%20000942.png" width="400" alt="Calculator Screenshot" />
 </p>
 
 ---
