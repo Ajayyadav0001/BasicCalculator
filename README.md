@@ -13,7 +13,7 @@
 
 ## 🌟 Live Preview
 
-🔗 [**Launch the Calculator**](https://your-username.github.io/my-calculator)  
+🔗 [**Launch the Calculator**](https://ajayyadav0001.github.io/BasicCalculator/)  
 *(Try it in your browser — mobile friendly!)*
 
 ---
